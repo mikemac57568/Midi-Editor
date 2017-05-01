@@ -26,13 +26,15 @@ FEATURES:
 		a set of measures or a specific note. Many functions allow the use of the randomize
 		feature.
 		
-	General Usage: Select a file. Select a function. Select parameters. Press
-	apply changes. Press play output to hear the change. If you like the change,
-	press keep changes. The updated file will be saved in the same directory as the
-	original file. It will not overwrite the original file.
+	General Usage: 
+		Select a file. Select a function. Select parameters. Press
+		apply changes. Press play output to hear the change. If you like the change,
+		press keep changes. The updated file will be saved in the same directory as the
+		original file. It will not overwrite the original file.
 		
-	Notes: Enter the correct time signature in order for measure select functionality
-	to work properly.
+	Notes: 
+		Enter the correct time signature in order for measure select functionality
+		to work properly.
 	
 Bugs: 
 	1) The change delta function currently does not keep chords together. Applying a randomize
@@ -67,7 +69,7 @@ Build Instructions:
 			-Add the MifiFile.lib to your project
 		-Project should run now. (Though it does not work for me).
 		
-		-Current non-working configuration (from .pro):
+		#Current non-working configuration (from .pro):
 			INCLUDEPATH += $$PWD/../midifile-master/include
 			LIBS += -L$$PWD/../midifile-master/visual-studio/DebugLib/ -lmidifile
 			
