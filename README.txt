@@ -57,7 +57,7 @@ Build Instructions:
 		
 	Linux:
 		Import the project files into QT creator
-		Download midifile and run make library
+		Download midifile and command "make library"
 		Link QT project to midifile.a
 		Build and run
 		
