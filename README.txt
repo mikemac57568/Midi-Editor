@@ -56,7 +56,7 @@ Build Instructions:
 		
 		
 	Linux:
-		1) Import the project files into QT creator
+		1) Download this repo, open the .pro file in QTCreator
 		2) Download midifile (link above) and build midifile.a using command "make library"
 		3) In QTCreator, right click on project name in file tree, and click add library.
 		   Select add external library. Navigate to midifile.a and select it. 
