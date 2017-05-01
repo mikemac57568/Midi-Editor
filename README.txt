@@ -1,4 +1,4 @@
-####### Midi Editor v 1.0 #########
+####### Midi Editor v 0.1 #########
 
 Midi Editor is an open source tool for modifying MIDI files.
 
