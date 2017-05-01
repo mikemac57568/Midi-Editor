@@ -67,6 +67,12 @@ Build Instructions:
 			-Add the MifiFile.lib to your project
 		-Project should run now. (Though it does not work for me).
 		
+		-Current non-working configuration (from .pro):
+			INCLUDEPATH += $$PWD/../midifile-master/include
+			LIBS += -L$$PWD/../midifile-master/visual-studio/DebugLib/ -lmidifile
+			
+			Produces LNK2019 and LNK2001 Errors for all midifile library functions
+		
 		
 		
 		
