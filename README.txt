@@ -8,7 +8,7 @@ FEATURES:
 
 		1) Strummify
 		   Apply to a guitar track to separate guitar chords, creating a more full
-		   and natural sound.
+		   and natural sound. Auto-determines upstroke or downstroke for each chord.
 		   
 		2) Change Delta
 			Apply to any track to change note placement. Use a small  magnitude
